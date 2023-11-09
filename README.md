@@ -18,3 +18,9 @@ I wrote this app for the CS50x final project. It may have bugs.
 
 [resim2]: ./funcs.png "Functions"
 #### These are what you can do.
+
+
+
+##### This app was written by Abdullah Enes Solak. 
+##### 10.11.2023 
+##### Ankara, Turkey 
