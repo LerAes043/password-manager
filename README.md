@@ -11,8 +11,9 @@ I wrote this app for the CS50x final project. It may have bugs.
 ## USAGE
 1. You have to have Python. If you haven't downloaded it before, download it. [Python](https://www.python.org/downloads/)
 2. Open the terminal
-3. Write ``` python3 password_manager.py```
-4. It's done, you can do whatever you want.
+3. Write this if necessary ```pip install bcrypt``` (Download necessary libraries if you don't have.) 
+4. Write ``` python3 password_manager.py```
+5. It's done, you can do whatever you want.
 
 ![functions][resim2]
 
