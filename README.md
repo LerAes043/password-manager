@@ -4,7 +4,7 @@
 This app is a terminal-based password manager so it can be used in Linux, Windows, and Mac. It has its own local database. All people who use the computer can use it safely because it has an account system.
 I wrote this app for the CS50x final project. It may have bugs.
 
-![Photo by Roman Synkevych on Unsplash][resim]
+![login menu][resim]
 
 [resim]: ./menu.png "Login Menu"
 
@@ -13,3 +13,8 @@ I wrote this app for the CS50x final project. It may have bugs.
 2. Open the terminal
 3. Write ``` python3 password_manager.py```
 4. It's done, you can do whatever you want.
+
+![functions][resim2]
+
+[resim2]: ./funcs.png "Functions"
+#### These are what you can do.
